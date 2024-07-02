@@ -14,3 +14,4 @@ Two parallel detections from Camera and Lidar for dynamic human detection and tr
 ### Robot
 - Pick and place robot with dynamic danger zone calculation based on x-y projection of robot arm
 
+![Concept](Concept.drawio.png)
