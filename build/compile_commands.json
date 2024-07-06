@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/MyData/Codes/HRC/HRC/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\HRC.dir\\src\\main.cpp.obj -c C:\\MyData\\Codes\\HRC\\HRC\\src\\main.cpp",
+  "file": "C:/MyData/Codes/HRC/HRC/src/main.cpp",
+  "output": "CMakeFiles/HRC.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/MyData/Codes/HRC/HRC/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\HRC.dir\\src\\ImageProcessor.cpp.obj -c C:\\MyData\\Codes\\HRC\\HRC\\src\\ImageProcessor.cpp",
+  "file": "C:/MyData/Codes/HRC/HRC/src/ImageProcessor.cpp",
+  "output": "CMakeFiles/HRC.dir/src/ImageProcessor.cpp.obj"
+}
+]
