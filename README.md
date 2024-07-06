@@ -1,6 +1,7 @@
 # HRC
 Concept Human Robot Collaboration with Camera-Lidar Fusion
 
+### Status: In development
 ## Pipeline
 Two parallel detections from Camera and Lidar for dynamic human detection and tracking. Camera outputs depth and intensity images and the LiDAR gives us a point cloud. The idea is to set up a simulated environment in NVIDIA Isaac Sim and obtain data for testing in realtime environment.
 
